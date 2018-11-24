@@ -1,0 +1,16 @@
+Steps to be followed:
+1.Collect the data sets i.e images in which the object to be detected is present(as much as possible, more the data sets, more the accuracy in result).
+2.Store the data sets in 2 folders or directory. Let the 90% of the collected data sets be in train folder and the 10% be in test folder.(During training the data sets in the train folder is only used for training purpose)
+3.Label the object in the image to be detected in the train folder using the labelImg.py file. The respective xml files for the data sets are created that contains the details about the labeled data sets.
+4.Go to the location of where the test and train directory are and run the xml_to_csv.py file to create a csv file for both test and train data sets.
+5.Now run the following command to create records for the train and test data sets which will be pipelined for training to create a graph file which will be used for animal detection
+   Before running the command create two folder train_record and test_record in tensorflow/models/research
+   Commands :
+                python generate_tfrecord.py --csv_input=data/train_labels.csv  --output_path=train.record
+                python generate_tfrecord.py --csv_input=data/test_labels.csv  --output_path=test.record
+                (Provide the paths for csv files in the python file before running and the commands should be executed in the mentioned location respectively) 
+6.Now execute the train.py file in the same folder to create a metadata file of the pbtxt file that contains all the labels with thei ids and the output is stored in training folder.
+   Run the following command:
+                python3 train.py --logtostderr --train_dir=training/ --pipeline_config_path=ssd_mobilenet_v1_pets.
+7.Now place the generated file in object_detection.pynb file using jupyter notebook and test the result.
+
