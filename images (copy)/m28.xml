@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>m28.jpg</filename>
+	<path>/home/srini/Desktop/images/m28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3888</width>
+		<height>2289</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>langur</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>150</ymin>
+			<xmax>3165</xmax>
+			<ymax>2127</ymax>
+		</bndbox>
+	</object>
+</annotation>

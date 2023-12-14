@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1089.jpg</filename>
+	<path>/home/srini/Desktop/images/1089.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Crocodile</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>189</ymin>
+			<xmax>876</xmax>
+			<ymax>1207</ymax>
+		</bndbox>
+	</object>
+</annotation>

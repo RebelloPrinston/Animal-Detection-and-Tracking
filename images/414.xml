@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>414.jpg</filename>
+	<path>/home/srini/Desktop/images/414.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>leopard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>101</ymin>
+			<xmax>498</xmax>
+			<ymax>456</ymax>
+		</bndbox>
+	</object>
+</annotation>

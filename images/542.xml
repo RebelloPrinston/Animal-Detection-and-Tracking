@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>542.jpg</filename>
+	<path>/home/srini/Desktop/images/542.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>3888</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>elephant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>906</ymin>
+			<xmax>2365</xmax>
+			<ymax>3731</ymax>
+		</bndbox>
+	</object>
+</annotation>

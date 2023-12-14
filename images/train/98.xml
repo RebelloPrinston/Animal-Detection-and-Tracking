@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>98.jpg</filename>
+	<path>/home/srini/Desktop/images/98.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2871</width>
+		<height>1798</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1298</xmin>
+			<ymin>130</ymin>
+			<xmax>2325</xmax>
+			<ymax>1489</ymax>
+		</bndbox>
+	</object>
+</annotation>

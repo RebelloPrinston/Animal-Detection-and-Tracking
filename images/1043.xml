@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1043.jpeg</filename>
+	<path>/home/srini/Desktop/images/1043.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>647</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Blackbuck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>4</ymin>
+			<xmax>604</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>

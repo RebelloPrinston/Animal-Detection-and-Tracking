@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>126.jpg</filename>
+	<path>/home/srini/Desktop/images/126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>401</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cheetah</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>3</ymin>
+			<xmax>400</xmax>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>

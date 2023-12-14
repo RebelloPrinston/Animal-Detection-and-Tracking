@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>287.jpg</filename>
+	<path>/home/srini/Desktop/images/287.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>657</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Deer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>27</ymin>
+			<xmax>783</xmax>
+			<ymax>657</ymax>
+		</bndbox>
+	</object>
+</annotation>

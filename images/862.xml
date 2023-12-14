@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>862.jpg</filename>
+	<path>/home/srini/Desktop/images/862.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1889</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zebra</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>50</ymin>
+			<xmax>1842</xmax>
+			<ymax>1701</ymax>
+		</bndbox>
+	</object>
+</annotation>

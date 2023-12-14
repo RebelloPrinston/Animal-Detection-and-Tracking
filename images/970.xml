@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>970.jpg</filename>
+	<path>/home/srini/Desktop/images/970.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>horse</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>27</ymin>
+			<xmax>366</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

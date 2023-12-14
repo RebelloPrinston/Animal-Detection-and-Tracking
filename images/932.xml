@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>932.jpeg</filename>
+	<path>/home/srini/Desktop/images/932.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>donkey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>14</ymin>
+			<xmax>203</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

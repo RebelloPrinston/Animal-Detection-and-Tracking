@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>792.jpeg</filename>
+	<path>/home/srini/Desktop/images/792.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>279</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wolf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>54</ymin>
+			<xmax>271</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

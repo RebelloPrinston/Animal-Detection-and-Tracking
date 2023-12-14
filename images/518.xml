@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>518.jpg</filename>
+	<path>/home/srini/Desktop/images/518.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bison</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>105</ymin>
+			<xmax>686</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>

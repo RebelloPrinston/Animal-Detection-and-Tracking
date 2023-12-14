@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>15.JPG</filename>
+	<path>/home/srini/Desktop/images/15.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>935</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tiger</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>32</ymin>
+			<xmax>1128</xmax>
+			<ymax>907</ymax>
+		</bndbox>
+	</object>
+</annotation>

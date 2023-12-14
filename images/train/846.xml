@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>846.jpg</filename>
+	<path>/home/srini/Desktop/images/846.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>894</width>
+		<height>894</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>wolf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>194</ymin>
+			<xmax>595</xmax>
+			<ymax>883</ymax>
+		</bndbox>
+	</object>
+</annotation>

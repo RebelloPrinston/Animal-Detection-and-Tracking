@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1019.jpg</filename>
+	<path>/home/srini/Desktop/images/1019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hippopotamus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>258</ymin>
+			<xmax>985</xmax>
+			<ymax>805</ymax>
+		</bndbox>
+	</object>
+</annotation>

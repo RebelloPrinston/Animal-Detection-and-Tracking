@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>d5.jpg</filename>
+	<path>/home/srini/Desktop/images/d5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>34</ymin>
+			<xmax>361</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

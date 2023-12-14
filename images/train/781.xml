@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>781.jpg</filename>
+	<path>/home/srini/Desktop/images/781.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hyena</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>96</ymin>
+			<xmax>766</xmax>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+</annotation>

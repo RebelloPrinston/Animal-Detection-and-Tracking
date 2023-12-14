@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>732.jpg</filename>
+	<path>/home/srini/Desktop/images/732.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1900</width>
+		<height>1068</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rhinoceros</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>37</ymin>
+			<xmax>1459</xmax>
+			<ymax>1019</ymax>
+		</bndbox>
+	</object>
+</annotation>
