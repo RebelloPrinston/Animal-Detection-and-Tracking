@@ -1,0 +1,8 @@
+Create a directory named 'object_detection' and in that directory create the following:
+	data directory
+	training directory
+	images directory - 
+	In images directory create 2 directories: test and train.Dump all the training images in this images directory. To createxml files for all the training images run python3 labelImg.py  from labelImg directory
+
+Final Command to start Training:
+	python3 train.py --logtostderr --train_dir=training/ --pipeline_config_path=ssd_mobilenet_v1_pets.config
